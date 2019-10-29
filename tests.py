@@ -11,3 +11,4 @@ class TestClass(unittest.TestCase):
 
     def test_smoke_test(self):
         assert True == sample_module()
+
